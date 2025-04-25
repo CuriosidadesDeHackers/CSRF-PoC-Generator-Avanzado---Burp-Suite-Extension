@@ -93,7 +93,7 @@ Esta clase crea la interfaz gráfica que se integra en Burp Suite. Permite visua
 ### **Instalación**
 
 1. **Descargar el Plugin:**
-   - Descarga el archivo JAR compilado desde la [página de releases](https://github.com/tu-usuario/generador-csrf-poc/releases).
+   - Descarga el archivo JAR compilado.
 
 2. **Instalar en Burp Suite:**
    - Abre Burp Suite.
