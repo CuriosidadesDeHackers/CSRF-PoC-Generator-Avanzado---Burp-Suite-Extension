@@ -2,6 +2,7 @@
   <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 
+
 # Generador CSRF POC Avanzado - Extensión de Burp Suite
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-Compatible-green)  
 ![Versión](https://img.shields.io/badge/Versión-1.0-blue)  
